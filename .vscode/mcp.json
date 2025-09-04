@@ -1,0 +1,8 @@
+{
+  "servers": {
+    "Sentry": {
+      "url": "https://mcp.sentry.dev/mcp/js-mastery-oz3/javascript-nextjs",
+      "type": "http"
+    }
+  }
+}
